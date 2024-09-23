@@ -7,4 +7,5 @@ void imprimircompetencias();
 void mezclarPaises(int paises[], int size);
 void cargaAleatoria();
 void imprimircompetencia(int indice);
+
 #endif
